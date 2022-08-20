@@ -10,5 +10,5 @@ Game is lost when score is 0.
 
 Interactive webpage features were implemented using DOM Manipulation in JavaScript.
 
-Credit for HTML/CSS and project idea goes to Jonas Schmedtmann of the "The Complete JavaScript Course 2022: From Zero to Expert"
+Credit for HTML/CSS and project idea goes to Jonas Schmedtmann of the "The Complete JavaScript Course 2022: From Zero to Expert."
 Credit for DOM Manipulation (any JavaScript code) and impelementation of project goes to myself. 
