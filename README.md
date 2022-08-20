@@ -1,6 +1,8 @@
 # Guess-My-Number-JS
 Objective: To guess the correct number from 1-20 in the fewest number of guesses possible. 
 
+Video Demo: https://watch.screencastify.com/v/Kn0tx9bRmTDnVlMX2LHu
+
 Features:
 - Incorrect guesses within the range of 1-20 are indicated to guess higher or lower.
 - Score decrements with each incorrect guess.
